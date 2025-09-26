@@ -2,7 +2,6 @@
 ! description: Melhores sites de noticias juridicas do Brasil.
 ! public: true
 ! author: Willna
-! avatar: #9244e0
 
 $boost=4,site=jusbrasil.com.br
 $boost=4,site=conjur.com.br
