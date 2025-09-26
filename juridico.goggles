@@ -1,8 +1,11 @@
-! name: Informacoes Juridicas
-! description: Melhores sites de noticias juridicas do Brasil.
+! name: Informações Jurídicas
+! description: Melhores sites de notícias jurídicas do Brasil.
 ! public: true
 ! author: Willna
+! homepage: https://willnacarvalho.com.br/
+! avatar: #9244e0
 
+$discard
 $boost=4,site=jusbrasil.com.br
 $boost=4,site=conjur.com.br
 $boost=3,site=migalhas.com.br
