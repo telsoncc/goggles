@@ -2,7 +2,7 @@
 ! description: Melhores sites de notícias jurídicas do Brasil.
 ! public: true
 ! author: Willna
-! homepage: https://willnacarvalho.com.br/
+! homepage: willnacarvalho.com.br
 ! avatar: #9244e0
 
 $boost=4,site=jusbrasil.com.br
